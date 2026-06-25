@@ -1,5 +1,7 @@
 Just because of how niche this hobby still is, I strongly believe there is no *perfect* VR headset right now. However, I'm happy with my setup right now, after going through a few headsets.
 
+### ✍️ My VR History
+
 Long ago I had a [Vive Cosmos](https://vr-compare.com/headset/htcvivecosmos), but the framerate was awful. 
 
 **May 2022:** A few years later I bought a [Quest 2](https://vr-compare.com/headset/oculusquest2) (later sold) and upgraded my computer after a year of VRChat. For the most part I was wired into my computer with [a special cable](https://www.amazon.com/dp/B09TN25765) that would also inject power. However, I ended up replacing cables every few months (luckily it was usually before the return window was over). Even with the cable mounted with pulleys on the ceiling, the connection would fail after a couple dozen hours. I tried the D-Link VR Air Bridge, but that was hot garbage, and I still needed to plug in to keep charged. 
@@ -19,11 +21,11 @@ Major downside of the Quest Pro is the controllers are *horrible*. I've never ha
 * Quest Pro
 * [KKCOBVR Battery Head Strap](https://www.amazon.com/dp/B0C58KQC7V), and a spare battery.
 * Vive 3.0 Tracker with a [3D printed mount](https://www.thingiverse.com/thing:6671172) on the headset.
-* 4 Lighthouses
 * 3x Vive 3.0 Trackers, Legs and Waist. (Total 4.)
+*  4 Lighthouses
 * Index Knuckle Controllers
 
-* Router
+* A seperate access point that is ~10 feet line of sight to my VR space
 
 #### Rarely used hardware
 * Muse Headband
@@ -41,11 +43,9 @@ Major downside of the Quest Pro is the controllers are *horrible*. I've never ha
 * OVR Advanced Settings - 
 * Space Calibrator - Combines the play spaces with continuous calibration.
 * VRC Face Tracking - 
+* VRC Video Cacher - 
 * ~~Natural Locomotion~~ - Still having trouble configuring this, would like to use it with my treadmill.
 * ~~Standable~~ - 
-
-*Opened separately;* 
-* VRC Video Cacher - 
 
 ### Startup Process:
 1. Attach a fresh battery to the Quest Pro strap
@@ -61,3 +61,5 @@ Major downside of the Quest Pro is the controllers are *horrible*. I've never ha
 * [Quest Pro Ears Mount](https://www.printables.com/model/317255-quest-pro-ears-mount-partial-light-blockers) is a cute idea, but everything kept falling off. 
 * While I would like to get a set of Trackstrap Plus batteries for my trackers, I would like to have a solution where the batteries could be replaced. Who knows, I might switch to FluxPose in the future anyways.
 * I tried building a Gridfinity charging basket, but honestly I need to make something more sturdy, as the magnets holding the [charging stations](https://www.printables.com/model/67193-valve-index-knuckles-and-htc-vive-tracker-30-charg) aren't strong enough. 
+* [Tupper's Best PCfor VRChat Guide](https://dtupper.com/projects/best-pc-for-vrchat/)
+* [Echo's PCVR Performance & Tracking Ultimate Guide](https://docs.google.com/document/d/1BdyWxQhFoRkJVfsLvcPNHgvL-esUEE76WbDfguOVbMg/edit?tab=t.0)
