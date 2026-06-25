@@ -1,24 +1,19 @@
 
-TODO: Whole page
-
 I blame https://videah.net/
 
+Originally I was going to use [Zola](https://github.com/Yarden-zamir/obsidian-zola-plus), but I didn't end up liking the theming.
+I ended up re-building with [Quartz](https://quartz.jzhao.xyz/).
 
-https://github.com/Yarden-zamir/obsidian-zola-plus
-zola
+I'm loving being able to just type naturally into Obsidian.
 
+However I forgot about it for months and oh god how does any of this work
 
-I'm loving being able to just type naturally into 
-
-
-And then I forgot about it for months and oh god how does any of this work
-
-todo
-- fork obsidian-zola-plus repo, change theme/footer of main page
-- better landing text
-- why sync from laptop no work?
-- would like to have a "draft" tag?
-
-re-built with [Quartz](https://quartz.jzhao.xyz/)
-#### To Do
+## To Do
+- [ ] Host Vault on [[TARDIS NAS]] instead of main PC 
 - [ ] New Theme https://github.com/saberzero1/quartz-themes
+- [ ] General make pretty
+- [ ] Write all the draft pages
+
+## Notes
+- Add the property "draft"="true" to hide a page
+- `npx quartz sync` in the vault folder to sync
