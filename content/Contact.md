@@ -1,2 +1,0 @@
-
-no-hello reminder; If your first message only contains a greeting, I'm going to assume you're a bot.
