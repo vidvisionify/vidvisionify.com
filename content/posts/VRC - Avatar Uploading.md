@@ -1,6 +1,7 @@
 ---
 tags:
   - vrchat
+draft: "true"
 ---
 vrcfury
 lightbox viewer

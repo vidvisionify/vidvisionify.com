@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 I am a bit of a data hoarder. While I've lost a lot of files over time, I 
 
 TODO: Whole page

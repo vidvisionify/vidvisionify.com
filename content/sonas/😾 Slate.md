@@ -1,8 +1,8 @@
 ![[slatephotog.png]]
-#### 🎨Colors
+#### %%🎨Colors%%
 
 #### 🐈 About
-A manul/Pallas cat
+A Snow Leopard/Pallas cat
 
 ###### 💭 Inspiration 
 * Slate is where I tend to put my frustrations
@@ -10,6 +10,6 @@ A manul/Pallas cat
 ###### 📖 Lore 
 Roommates with [[🍞 Toast]]?
 <a href="https://open.spotify.com/playlist/6MvDHchlGemtlXYB1HHsed?si=10c3d24d506246c4">🎧 Spotify Playlist</a>
-#### ⚠️ Common Mistakes
+#### %%⚠️ Common Mistakes%%
 
-#### 🖼️ Gallery
+#### %% 🖼️ Gallery%%

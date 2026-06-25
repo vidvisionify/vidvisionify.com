@@ -1,6 +1,7 @@
 ---
 tags:
   - vrchat
+draft: "true"
 ---
 TODO: Whole page
 

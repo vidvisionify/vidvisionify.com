@@ -1,6 +1,7 @@
 ---
 tags:
   - vrchat
+draft: "true"
 ---
 TODO: make page make sense
 Ms paint window to partial step outwindow to partial step out of

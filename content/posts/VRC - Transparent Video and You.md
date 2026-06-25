@@ -29,4 +29,4 @@ This guide assumes you know your away around OBS
 	* Under Mask, turn off World
 
 
-oh wait no the performance is ass
+> oh wait no the performance is ass

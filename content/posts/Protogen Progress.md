@@ -13,7 +13,9 @@ Not a ton of protogens I saw this year;
 
 I could have ordered the prints from a service, but part of this journey was supposed to be building it *cheaply*. 
 ### 🍑 FWA 2025
-Once I realized I could use primative shapes to subtract sections of the print in Orcaslicer, I was able to fit the files on the bed and get printing! Provided my printer would behave. Which it didn't. While using PETG, small prints would be fine, but these large full-bed prints would suddenly stop after a few layers. Eventually I realized it was the motherboard of my Ender 3v2 overheating. I could order more parts to replace the fan underneath with a more powerful one... *or...* just throw a fan under it.
+Once I realized I could use primative shapes to subtract sections of the print in Orcaslicer, I was able to fit the files on the bed and get printing! Provided my printer would behave. Which it didn't. While using PETG, small prints would be fine, but these large full-bed prints would suddenly stop after a few layers. Eventually I realized it was the motherboard of my Ender 3v2 overheating. I could order more parts to replace the fan underneath with a more powerful one... 
+*or...* just throw a fan under it.
+
 Yeah surprisingly it just needed a tiny bit more airflow. I stacked my printer on top of some containers and it was good to go! The first print was too aggressive on the supports, but being able to see the size was very exciting! Now to wait days for each print to come out before I move onto electronics.
 
 Admittedly at this point I haven't even made the character. 😓

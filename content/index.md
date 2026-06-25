@@ -7,7 +7,6 @@ I'm terrible about actually finishing pages.
 
 🗨 Hey hi hello everyone, this is Vid. [[About Me]]
 
-[[New Blog]]
 
 > [!info] You've probably found this space by mistake, but I'll explain.
 

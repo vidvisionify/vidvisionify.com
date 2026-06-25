@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 TODO: Whole page
 
 raichu.lol is my personal link-dump website.
