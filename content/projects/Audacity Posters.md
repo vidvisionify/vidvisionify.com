@@ -11,3 +11,8 @@ tags:
 
 
 <img src="_imgs/audacity/251024.png" width="200"/><img src="_imgs/audacity/251128.png" width="200"/><img src="_imgs/audacity/251226.png" width="200"/>
+
+
+### 👥 Related Events
+
+<img src="_imgs/posters/0625 VictoryListening.png" width="200"/> 

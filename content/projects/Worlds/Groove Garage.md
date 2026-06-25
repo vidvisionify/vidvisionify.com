@@ -1,0 +1,17 @@
+---
+quartz-properties: "false"
+tags:
+  - VRChat
+---
+* wanted a medium space
+* talked to tetra, humble bundle+cosmos
+* preview in tiktoks
+* early iterations lost the plot
+* messing around with unity+resonite, decided to rebuild entirely
+* sound egg
+* focused on the record store system
+* walking away from cosy bedroom, but this is a different philosophy
+* still so so much to do
+
+
+* Similar worlds you should check out

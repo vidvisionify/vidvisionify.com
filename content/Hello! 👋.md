@@ -5,7 +5,7 @@ tags:
   - meta
 quartz-properties: "false"
 ---
-🗨 Hey hi hello everyone, [[About Me|this is Vid]].
+🗨 Hey hi hello everyone, [[About Me|this is Vid]]. <img src="_imgs/miniicon_fiaKaiera.png" width="32"/>
 
 This is my personal digital garden. 🪴 Think of it as a website/blog/wiki-thing. It is [[vidvisionify.com|built using Quartz]], and I write in Obsidian. I'm terrible about actually finishing pages though.
 
