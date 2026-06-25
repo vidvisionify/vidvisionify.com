@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/934731a7-d0d3-44ea-ae7e-5930a0ef8f76/deploy-status)](https://app.netlify.com/projects/vidvisionify/deploys)
-
 This is my personal website/blog/wiki-thing.
 I'm terrible about actually finishing pages.
 
@@ -7,7 +5,7 @@ I'm terrible about actually finishing pages.
 
 <hr>
 
-_🗨 Hey hi hello everyone, this is Vid. [[About Me]]]
+🗨 Hey hi hello everyone, this is Vid. [[About Me]]
 
 [[New Blog]]
 
