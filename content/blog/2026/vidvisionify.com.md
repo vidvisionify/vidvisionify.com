@@ -1,3 +1,7 @@
+---
+tags:
+  - meta
+---
 
 I blame https://videah.net/
 

@@ -1,12 +1,6 @@
 ---
 draft: "true"
+tags:
+  - design
+  - vrchat
 ---
-
-
-````
-```img-gallery
-path: _imgs/audacity
-type: horizontal
-```
-````
-

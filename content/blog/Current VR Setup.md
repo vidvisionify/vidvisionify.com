@@ -1,3 +1,9 @@
+---
+tags:
+  - VRChat
+quartz-properties: "false"
+---
+
 Just because of how niche this hobby still is, I strongly believe there is no *perfect* VR headset right now. However, I'm happy with my setup right now, after going through a few headsets.
 
 ### ✍️ My VR History

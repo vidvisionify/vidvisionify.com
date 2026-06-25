@@ -1,7 +1,8 @@
 ---
-tags:
-  - vrchat
 draft: "true"
+tags:
+  - VRChat
+quartz-properties: "false"
 ---
 vrcfury
 lightbox viewer

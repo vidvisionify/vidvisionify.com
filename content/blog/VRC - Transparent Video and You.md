@@ -1,3 +1,9 @@
+---
+tags:
+  - VRChat
+quartz-properties: "false"
+---
+
 How I can I possibly in a A, B, C, D, E, F and G all at the same time? Well, anyone with the tinest bit of filmmaking knowledge would say "a green screen, duh" (vsauce theme) but what if it wasn't?
 
 This guide assumes you know your away around OBS

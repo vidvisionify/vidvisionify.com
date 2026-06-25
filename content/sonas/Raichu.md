@@ -1,3 +1,9 @@
+---
+tags:
+  - furry
+  - Pokémon
+quartz-properties: "false"
+---
 ![[Raichu.png]]
 
 

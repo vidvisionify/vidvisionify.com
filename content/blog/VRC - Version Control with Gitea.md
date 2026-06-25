@@ -1,5 +1,8 @@
 ---
 draft: "true"
+tags:
+  - VRChat
+quartz-properties: "false"
 ---
 
 On my [[TARDIS NAS|NAS]] I setup Gitea to start running version control on some of my projects. 
