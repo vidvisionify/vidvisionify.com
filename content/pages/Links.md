@@ -1,3 +1,6 @@
+---
+draft: "true"
+---
 * Blogs
 * Tools
 * YouTube

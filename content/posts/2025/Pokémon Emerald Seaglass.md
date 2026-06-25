@@ -1,6 +1,7 @@
 ---
 aliases:
   - Emerald Seaglass
+draft: "true"
 ---
 TODO: Whole page
 

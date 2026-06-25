@@ -58,6 +58,8 @@ Major downside of the Quest Pro is the controllers are *horrible*. I've never ha
 
 
 ### Other notes:
+* When having a room-scale playspace, having a rug the size of your space helps!
+  Much less distracting to feel you've stepped off the rug versus a virtual barrier popping up!
 * [Quest Pro Ears Mount](https://www.printables.com/model/317255-quest-pro-ears-mount-partial-light-blockers) is a cute idea, but everything kept falling off. 
 * While I would like to get a set of Trackstrap Plus batteries for my trackers, I would like to have a solution where the batteries could be replaced. Who knows, I might switch to FluxPose in the future anyways.
 * I tried building a Gridfinity charging basket, but honestly I need to make something more sturdy, as the magnets holding the [charging stations](https://www.printables.com/model/67193-valve-index-knuckles-and-htc-vive-tracker-30-charg) aren't strong enough. 

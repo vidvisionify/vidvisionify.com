@@ -2,6 +2,7 @@
 aliases:
   - laptop
   - sticker collage
+draft: "true"
 ---
 TODO: Whole page
 
