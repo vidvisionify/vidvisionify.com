@@ -1,3 +1,4 @@
+
 TODO: Whole page
 
 I blame https://videah.net/
@@ -17,3 +18,7 @@ todo
 - better landing text
 - why sync from laptop no work?
 - would like to have a "draft" tag?
+
+re-built with [Quartz](https://quartz.jzhao.xyz/)
+#### To Do
+- [ ] New Theme https://github.com/saberzero1/quartz-themes
