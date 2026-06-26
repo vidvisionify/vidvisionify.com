@@ -12,7 +12,7 @@
 * *Sept 27th* - Porter Robinson (SMILE!) @ The Sylvee, Madison, WI
 
 **2025**
-* *Oct 3rd* - Madeon (???) @ Red Rocks
+* *Oct 3rd* - Madeon [[Madeon's Victory|( ??? ) @ Red Rocks]]
 * *May 17th* - Porter Robinson (SMILE! Make-up) @ The Salt Shed Outdoors, Chicago, IL
 
 **2026**

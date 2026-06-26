@@ -8,7 +8,7 @@ In March 2025, I was excited to see a new era of Madeon's music was approaching 
 * long long release
 * listening party
 
-That being said, the wait for this album has been long and grueling
+That being said, the wait for this album has been long and grueling.
 
 
 
