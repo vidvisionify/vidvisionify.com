@@ -3,6 +3,10 @@ quartz-properties: "false"
 tags:
   - VRChat
 ---
+> [!NOTE]
+> This page is a work in progress. 
+
+
 * wanted a medium space
 * talked to tetra, humble bundle+cosmos
 * preview in tiktoks
