@@ -1,7 +1,7 @@
 ---
-tags:
-  - vrchat
-  - 3dprinting
+aliases:
+  - lyrion
+  - squeezebox
 draft: "true"
 ---
 TODO: Whole page
