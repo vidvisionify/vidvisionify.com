@@ -154,7 +154,7 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
-    options:
+    options: null
     title: Index
     layout:
       position: left
@@ -269,7 +269,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: default
+      theme: lemons-theme
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
