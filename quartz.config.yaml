@@ -164,8 +164,34 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     options:
-      depth: -1
-      enableRadial: false
+        localGraph:
+            drag: true
+            zoom: true
+            depth: 10
+            scale: 1.1
+            repelForce: 0.5
+            centerForce: 0.3
+            linkDistance: 30
+            fontSize: 0.6
+            opacityScale: 1
+            removeTags: []
+            showTags: true
+            focusOnHover: false
+            enableRadial: false
+        globalGraph:
+            drag: true
+            zoom: true
+            depth: -1
+            scale: 0.9
+            repelForce: 0.5
+            centerForce: 0.3
+            linkDistance: 30
+            fontSize: 0.6
+            opacityScale: 1
+            removeTags: []
+            showTags: true
+            focusOnHover: true
+            enableRadial: false
     layout:
       position: right
       priority: 10
@@ -189,6 +215,9 @@ plugins:
       priority: 10
   - source: github:quartz-community/content-meta
     enabled: true
+    options:
+      showReadingTime: false
+      showComma: false
     layout:
       position: beforeBody
       priority: 20
@@ -240,7 +269,7 @@ plugins:
         GitHub: https://github.com/jackyzha0/quartz
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
-    enabled: true
+    enabled: false
     options:
       title: Recent Edits
       limit: 3
@@ -249,7 +278,7 @@ plugins:
       hideFolderPages: true
     layout:
         position: right
-        priority: 20
+        priority: 50
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

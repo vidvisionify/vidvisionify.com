@@ -3,7 +3,7 @@ tags:
   - furry
 quartz-properties: "false"
 ---
-![[!refsheet_jinxeon.jpg]]
+![[ref_gurem_jinxeon.jpg]]
 
 #### %%🎨Colors%%
 

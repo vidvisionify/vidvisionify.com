@@ -3,7 +3,7 @@ tags:
   - furry
 quartz-properties: "false"
 ---
-![[slatephotog.png]]
+![[ref_slate_vrc.jpg]]
 #### %%🎨Colors%%
 
 #### 🐈 About

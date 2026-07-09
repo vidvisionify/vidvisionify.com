@@ -7,7 +7,8 @@ TODO: Whole page
 
 hex os
 
-
+This was built when storage was cheap ;-;
+Damn it, the HBA card died and now I'm unable to access anything
 
 ### Selfhosted Services
 Granted, I'm typically messing around with several services but here's what I've been running for a while;

@@ -16,6 +16,7 @@ However I forgot about it for months and oh god how does any of this work
 - [ ] Host Vault on [[TARDIS NAS]] instead of main PC 
 - [ ] New Theme https://github.com/saberzero1/quartz-themes
 - [ ] General make pretty
+- [ ] Custom favicon
 - [ ] Write all the draft pages
 
 ## Notes
