@@ -216,6 +216,11 @@ plugins:
       group: toolbar
   - source: github:quartz-community/breadcrumbs
     enabled: true
+    options:
+        spacerSymbol: "➔"
+        rootName: 🏠
+        resolveFrontmatterTitle: true
+        showCurrentPage: true
     layout:
       position: beforeBody
       priority: 5
@@ -236,6 +241,15 @@ plugins:
         Discord Community: https://discord.gg/cRFFHYye7t
   - source: github:quartz-community/recent-notes
     enabled: true
+    options:
+      title: Recent Edits
+      limit: 3
+      showTags: false
+      hideTagPages: true
+      hideFolderPages: true
+    layout:
+        position: right
+        priority: 20
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -257,7 +271,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
