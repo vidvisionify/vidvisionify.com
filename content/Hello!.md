@@ -10,7 +10,7 @@ quartz-properties: "false"
 This is my personal digital garden. 🪴 Think of it as a website/blog/wiki-thing. It is [[vidvisionify.com|built using Quartz]], and I write in Obsidian. I'm terrible about actually finishing pages though.
 
 ### Featured Notes 📝
-* Uhhh.... I'm still writing...
+*  [[First Visit to Anthrocon]]
 
 ⚠ But, if this isn't what you are looking for, you should look [elsewhere.](http://raichu.lol)
 

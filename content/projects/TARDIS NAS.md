@@ -16,7 +16,7 @@ Granted, I'm typically messing around with several services but here's what I've
 * Two instances of Immich
 * [[ROMM]]
 * [[Lyrion + Squeezebox|Lyrion]]
-* [[VRC - Version Control with Gitea|Gitea]]
+* [[Version Control with Gitea|Gitea]]
 * UrBackup
 * Jellyfin
 * Homebox

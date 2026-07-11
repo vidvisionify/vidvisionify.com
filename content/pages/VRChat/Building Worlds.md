@@ -28,6 +28,7 @@ autolink
 * Purchase Bakery, it's on sale a lot
 * Probuilder
 
+Iconoclass's videos as basic tutorial!
 
 Resources:
 * https://orels.sh/p/tools/
