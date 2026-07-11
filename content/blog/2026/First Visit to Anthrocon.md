@@ -1,6 +1,6 @@
 ![[260704 pittsburgh.jpg]]
 
-* Whose idea was it to have a furry convention during the peak of summer?
+* Whose idea was it to have a #furry convention during the peak of summer?
 	* Missed out on the main features of the convention because of the heat, Parade and Block Party
 	* May have had a minor case of heat exhaustion
 	* Only ended up with a little bit of sunburn on my neck.
@@ -25,7 +25,8 @@
 	* **Condado Taco** - I made a mistake by getting a burrito bowl, I just didn't think the tacos were going to be big enough. Bud Box (maybe +1 taco) is plenty of food. We had it delivered, but supposedly inside seating is neat? *3/5* ⭐⭐⭐
 
 * Other notes
-	* Finding liquor was a pain
+	* Finding bottles of liquor was a pain
+	* Commissioned the first art of [[Slate]] here! Excited to see what [Oakley](https://x.com/oakleycreations) sketches!
 	* With an extra day after the con (and a friend with a car) we decided to get a second dose of heat exhaustion at the *Pittsburgh Zoo* a few hours before it closed. We mainly went to see the Red Pandas, but they were curled up and hiding away. This was be a really bad zoo to build an ark with... Seemed like they only had one of each animal.  (Un)fortunately we missed out on the gift shop, since were there up to closing. 
 	* Flying MDW was a pain the ass
 		* There's no good transport there other than going all the way downtown Chicago
