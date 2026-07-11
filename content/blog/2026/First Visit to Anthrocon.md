@@ -1,3 +1,5 @@
+![[260704 pittsburgh.jpg]]
+
 * Whose idea was it to have a furry convention during the peak of summer?
 	* Missed out on the main features of the convention because of the heat, Parade and Block Party
 	* May have had a minor case of heat exhaustion
