@@ -18,5 +18,6 @@ quartz-properties: "false"
 	* If I ever learn to animate in blender, there's a couple songs in there I would turn into anime openings.
 #### ⚠️ Common Mistakes
 * *Goggles are screens that change based on emotion!*
+* Keep the boy clothed!
 
 #### %%🖼️ Gallery%%

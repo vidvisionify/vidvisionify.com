@@ -24,7 +24,7 @@
 
 * 🦝 **[[Midwest Furfest Survival Guide|Midwest Furfest]]** - *2022, 2023, 2024, 2025*
 * 🍑 **Furry Weekend Atlanta** - *2023, 2024, 2025*
-* 🏙️ **Anthrocon** - *[[First Visit to Anthrocon|2026]]*
+* 🏙️ **Anthrocon** - *[[Anthrocon|2026]]*
 * 🌐 **Furality** - *Luma Festival, Sylva, Umbra, Ultra*
 
 * 💾 **Midwest Vintage Computer Festival** - *2025*
