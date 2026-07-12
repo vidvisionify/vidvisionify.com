@@ -11,14 +11,15 @@ unlisted: "true"
 I am [[#furry]] garbage that occasionally builds [[worlds]] in [[VRChat.]] I know a bit about live video production, but I very rarely live stream. By turning my old computer into a [[TARDIS NAS|home server]], I also explore the world of home automation with Home Assistant. I guess I also play games sometimes.
 
 > [!info] This is my personal digital garden. 🪴 Think of it as a website/blog/wiki-thing. It is [[vidvisionify.com|built using Quartz]], and I write in Obsidian. I'm terrible about actually finishing pages though.
+ 
 ## 📓 Featured Pages + Projects
 * [[Building Worlds]]
 
 ## 📝 [Recent Blog Posts](https://vidvisionify.com/blog/) 
 *  [[Anthrocon]]
 
----
-⚠ But, if this isn't what you are looking for, you should look [elsewhere.](http://raichu.lol)
+
+> [!caution] If this isn't what you are looking for, you should look [elsewhere.](http://raichu.lol)
 
 %%
  [[About Me]]
