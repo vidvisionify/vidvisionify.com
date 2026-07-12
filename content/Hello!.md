@@ -5,6 +5,7 @@ tags:
   - meta
 quartz-properties: "false"
 enable-toc: "false"
+unlisted: "true"
 ---
 # 👋 Hey hi hello everyone. Call me [[About Me|Vid]]. <img src="_imgs/miniicon_fiaKaiera.png" width="32"/>
 I am [[#furry]] garbage that occasionally builds [[worlds]] in [[VRChat.]] I know a bit about live video production, but I very rarely live stream. By turning my old computer into a [[TARDIS NAS|home server]], I also explore the world of home automation with Home Assistant. I guess I also play games sometimes.
