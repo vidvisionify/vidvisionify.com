@@ -3,6 +3,7 @@ tags:
   - furry
 quartz-properties: "false"
 ---
+> [!warn] This page is a work in progress. 
 
 > This page is documenting my progress on making a protogen fursuit head based on Arkoss's design. This project has been in the background for a long time.
 

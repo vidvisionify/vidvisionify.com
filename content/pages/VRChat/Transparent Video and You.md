@@ -3,8 +3,7 @@ tags:
   - VRChat
 quartz-properties: "false"
 ---
-> [!NOTE]
-> This page is a work in progress. 
+> [!warn] This page is a work in progress. 
 
 How I can I possibly in a A, B, C, D, E, F and G all at the same time? Well, anyone with the tinest bit of filmmaking knowledge would say "a green screen, duh" (vsauce theme) but what if it wasn't?
 

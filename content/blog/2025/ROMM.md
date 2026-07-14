@@ -1,3 +1,5 @@
+> [!warn] This page is a work in progress. 
+
 Occasionally on my [[TARDIS NAS|TrueNas server]] I go through the available apps to selfhost; and I found ROMM there, after hearing a friend talk about it. I got it linked to my games library, and I ended up playing all of [[Pokémon Emerald Seaglass|Emerald Seaglass]] in my browser via Emulator.JS which is built into ROMM. 
 
 Basic features are great, but I wish there were more integrations available. I wasn't really able to get the custom app for MustardOS working, I suspect it doesn't respect the Tailscale VPN I was trying to use.

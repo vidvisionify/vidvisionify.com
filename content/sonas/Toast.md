@@ -3,6 +3,8 @@ tags:
   - furry
 quartz-properties: "false"
 ---
+> [!warn] This page is a work in progress. 
+
 ![[jammin raccoon.png]]
 %%
 #### 🎨Colors

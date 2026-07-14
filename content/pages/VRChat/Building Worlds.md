@@ -4,7 +4,7 @@ tags:
   - VRChat
 quartz-properties: "false"
 ---
-TODO: Whole page
+> [!warn] This page is a work in progress. 
 
 I am entirely self-taught
 
