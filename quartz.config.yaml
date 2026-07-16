@@ -43,6 +43,7 @@ configuration:
 plugins:
   - source: github:HappyPotatoHead/quartz5-clickable-images
     enabled: true
+    options: {}
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
@@ -164,34 +165,16 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     options:
-      localGraph:
-        drag: true
-        zoom: true
-        depth: 10
-        scale: 1.1
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        removeTags: []
-        showTags: true
-        focusOnHover: false
-        enableRadial: false
-      globalGraph:
-        drag: true
-        zoom: true
-        depth: -1
-        scale: 0.9
-        repelForce: 0.5
-        centerForce: 0.3
-        linkDistance: 30
-        fontSize: 0.6
-        opacityScale: 1
-        removeTags: []
-        showTags: true
-        focusOnHover: true
-        enableRadial: false
+      localGraph: "      drag: true       zoom: true       depth: 1       scale:
+        1.1       repelForce: 0.5       centerForce: 0.3       linkDistance:
+        30       fontSize: 0.6       opacityScale: 1       removeTags:
+        []       showTags: true       focusOnHover: false       enableRadial:
+        false"
+      globalGraph: "      drag: true       zoom: true       depth: -1       scale:
+        0.9       repelForce: 0.5       centerForce: 0.3       linkDistance:
+        30       fontSize: 0.6       opacityScale: 1       removeTags:
+        []       showTags: true       focusOnHover: true       enableRadial:
+        true"
     layout:
       position: right
       priority: 10
@@ -222,10 +205,11 @@ plugins:
       position: beforeBody
       priority: 20
   - source: github:quartz-community/tag-list
-    enabled: false
+    enabled: true
     layout:
       position: beforeBody
       priority: 30
+    options: {}
   - source: github:quartz-community/page-title
     enabled: true
     layout:
