@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.421-05:00
-modified: 2026-07-16T02:48:06.140-05:00
+modified: 2026-07-16T03:59:37.265-05:00
 tags:
   - design
   - vrchat
