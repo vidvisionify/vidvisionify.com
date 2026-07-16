@@ -3,7 +3,7 @@ publish: true
 aliases:
   - First Visit to Anthrocon
 created: 2026-07-15T02:19:08.361-05:00
-modified: 2026-07-15T02:19:08.367-05:00
+modified: 2026-07-16T02:54:45.800-05:00
 ---
 
 ![[_imgs/blog/260704 pittsburgh.jpg]]
@@ -39,4 +39,4 @@ modified: 2026-07-15T02:19:08.367-05:00
   - With an extra day after the con (and a friend with a car) we decided to get a second dose of heat exhaustion at the _Pittsburgh Zoo_ a few hours before it closed. We mainly went to see the Red Pandas, but they were curled up and hiding away. This was be a really bad zoo to build an ark with... Seemed like they only had one of each animal.  (Un)fortunately we missed out on the gift shop, since were there up to closing.
   - Flying MDW was a pain the ass
     - There's no good transport there other than going all the way downtown Chicago
-    - Southwest flight attendants were lovely though
+    - Southwest flight attendants were lovely though!
