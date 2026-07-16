@@ -164,34 +164,34 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     options:
-        localGraph:
-            drag: true
-            zoom: true
-            depth: 10
-            scale: 1.1
-            repelForce: 0.5
-            centerForce: 0.3
-            linkDistance: 30
-            fontSize: 0.6
-            opacityScale: 1
-            removeTags: []
-            showTags: true
-            focusOnHover: false
-            enableRadial: false
-        globalGraph:
-            drag: true
-            zoom: true
-            depth: -1
-            scale: 0.9
-            repelForce: 0.5
-            centerForce: 0.3
-            linkDistance: 30
-            fontSize: 0.6
-            opacityScale: 1
-            removeTags: []
-            showTags: true
-            focusOnHover: true
-            enableRadial: false
+      localGraph:
+        drag: true
+        zoom: true
+        depth: 10
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: false
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: true
+        focusOnHover: true
+        enableRadial: false
     layout:
       position: right
       priority: 10
@@ -246,10 +246,10 @@ plugins:
   - source: github:quartz-community/breadcrumbs
     enabled: true
     options:
-        spacerSymbol: "➔"
-        rootName: 🏠
-        resolveFrontmatterTitle: true
-        showCurrentPage: true
+      spacerSymbol: ➔
+      rootName: 🏠
+      resolveFrontmatterTitle: true
+      showCurrentPage: true
     layout:
       position: beforeBody
       priority: 5
@@ -277,8 +277,8 @@ plugins:
       hideTagPages: true
       hideFolderPages: true
     layout:
-        position: right
-        priority: 50
+      position: right
+      priority: 50
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -314,7 +314,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: lemons-theme
+      theme: sanctum-reborn.yellow
   - source: github:quartz-community/obsidian-plugin-excalidraw
     enabled: true
     options:
