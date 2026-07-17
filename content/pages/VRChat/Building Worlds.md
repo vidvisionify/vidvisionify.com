@@ -1,8 +1,8 @@
 ---
 publish: true
 draft: "false"
-created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-17T04:27:31.208-05:00
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-07-17T04:27:31.000-05:00
 tags:
   - VRChat
 ---

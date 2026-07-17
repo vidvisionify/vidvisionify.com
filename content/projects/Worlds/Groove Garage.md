@@ -1,7 +1,7 @@
 ---
 publish: true
-created: 2026-07-15T02:19:08.437-05:00
-modified: 2026-07-15T02:19:08.441-05:00
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-07-17T05:00:27.000-05:00
 tags:
   - VRChat
 ---
@@ -22,4 +22,6 @@ tags:
 
 While this world is meant to be the home of [[Slate]], I honestly don't have enough lore for my sonas, so there's some more personal nods and secrets littered around as well.
 
-- Similar worlds you should check out
+#### 🪺 Easter Eggs
+
+- Any [records I personally own](https://www.discogs.com/user/vidvisionify/collection) have a very subtle normal map of a pawprint on the back in the bottom left!
