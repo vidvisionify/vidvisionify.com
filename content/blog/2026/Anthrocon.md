@@ -3,12 +3,14 @@ publish: true
 aliases:
   - First Visit to Anthrocon
 created: 2026-07-15T02:19:08.361-05:00
-modified: 2026-07-16T02:54:45.800-05:00
+modified: 2026-07-17T02:55:59.591-05:00
+tags:
+  - furry
 ---
 
 ![[_imgs/blog/260704 pittsburgh.jpg]]
 
-- Whose idea was it to have a #furry convention during the peak of summer?
+- Whose idea was it to have a furry convention during the peak of summer?
   - Missed out on the main features of the convention because of the heat, Parade and Block Party
   - May have had a minor case of heat exhaustion
   - Only ended up with a little bit of sunburn on my neck.

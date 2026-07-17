@@ -2,7 +2,7 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-17T02:02:46.535-05:00
+modified: 2026-07-17T02:57:44.994-05:00
 tags:
   - VRChat
 ---
@@ -26,6 +26,10 @@ I haven't spread my wings outside of the VRCSDK so I'll let you know.
 > Unfortunately, the more advanced tutorials are locked behind his [Patreon](https://www.patreon.com/iconoclass). I just subscribed long enough to see the Bakery tutorial, I might go back because I see he's added a lot more.
 
 ---
+
+## 🤔 Things to Consider
+
+- Building an indoor space is much easier.
 
 ## 📋 Project Setup
 
@@ -59,6 +63,8 @@ Admittedly, there is _ONE_ paid asset you will probably need to get. [Bakery](ht
 
 > [!warn] **Back up your project!** I know it can be a slow process; but I try to run a backup before I get started for the day.
 
+- To keep a sense of scale, it helps to have a stand-in object for the height of the user. I use these [Editor markers](https://tsunamoo.booth.pm/items/3092199) that are already tagged as "EditorOnly", so they don't end up in the final upload. I put one at the spawn, and then any gathering spaces like in front of video players.
+
 #### Building with Probuilder 📐
 
 Block out the spaces you want first, focus on details later.
@@ -67,10 +73,20 @@ Block out the spaces you want first, focus on details later.
 
 ###### Finding Prefabs and Models 👀
 
-#### Baking your lights with Bakery 💡
+[[Common World Prefabs]]
 
-#### Post Processing 🪟
+### Baking lights with Bakery 💡
+
+### Post Processing 🪟
+
+## 📈 Optimizing Your World
+
+### Download Size
+
+### Frames per Second
 
 Resources:
 
 - https://orels.sh/p/tools/
+
+![[_imgs/sticker_vid_coffee.png|150]]
