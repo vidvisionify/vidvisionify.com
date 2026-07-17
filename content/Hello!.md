@@ -3,7 +3,7 @@ publish: true
 aliases:
   - index
 created: 2026-07-15T02:19:06.077-05:00
-modified: 2026-07-15T02:19:06.084-05:00
+modified: 2026-07-17T03:11:55.069-05:00
 tags:
   - meta
 ---
@@ -14,11 +14,13 @@ I am [[#furry]] garbage that occasionally builds [[worlds]] in [[VRChat.]] I kno
 
 > [!info] This is my personal digital garden. 🪴 Think of it as a website/blog/wiki-thing. It is [[vidvisionify.com|built using Quartz]], and I write in Obsidian. I'm terrible about actually finishing pages though.
 
-## 📓 Featured Pages + Projects
+![[banner_vid_working 1.png]]
+
+## 📓 Featured [[Pages]] + [[Projects]]
 
 - [[Building Worlds]]
 
-## 📝 [Recent Blog Posts](https://vidvisionify.com/blog/)
+## 📝 Recent [[Blog|Blog Posts]]
 
 - [[Anthrocon]]
 

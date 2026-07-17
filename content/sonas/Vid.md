@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.457-05:00
-modified: 2026-07-15T02:19:08.464-05:00
+modified: 2026-07-17T03:14:18.482-05:00
 tags:
   - furry
 ---
@@ -30,4 +30,6 @@ tags:
 - _Goggles are screens that change based on emotion!_
 - Keep the boy clothed!
 
-####
+#### 🖼️ Gallery
+
+![[_imgs/sticker_vid_coffee.png|167]]

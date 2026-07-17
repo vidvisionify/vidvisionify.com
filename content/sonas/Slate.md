@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.453-05:00
-modified: 2026-07-15T02:19:08.458-05:00
+modified: 2026-07-17T03:44:31.934-05:00
 tags:
   - furry
 ---
@@ -19,7 +19,8 @@ A Snow Leopard/Pallas cat
 ###### 💭 Inspiration
 
 - Slate is where I tend to put my frustrations
-- Started out as wanting to use the _Mayu_ #VRChat model, made me realize Snow Leopards are my favorite big cats.
+- Started out as wanting to use the _Mayu_ VRChat model.
+- Initially was a Manul/Pallas Cat, but I eventually realized Snow Leopards are my favorite big cats.
 
 ###### 📖 Lore
 
