@@ -3,7 +3,7 @@ publish: true
 aliases:
   - First Visit to Anthrocon
 created: 2026-07-07
-modified: 2026-07-17T02:59:28.988-05:00
+modified: 2026-07-17T04:09:12.355-05:00
 tags:
   - furry
 ---
@@ -38,6 +38,7 @@ tags:
   - New convention pro strat; Instead of wrestling a case of water, get a brita filter for the hotel room.
   - Finding bottles of liquor was a pain
   - Commissioned the first art of [[Slate]] here! Excited to see what [Oakley](https://x.com/oakleycreations) sketches!
+  - Largest Furry convention to date! 20,618!
   - With an extra day after the con (and a friend with a car) we decided to get a second dose of heat exhaustion at the _Pittsburgh Zoo_ a few hours before it closed. We mainly went to see the Red Pandas, but they were curled up and hiding away. This was be a really bad zoo to build an ark with... Seemed like they only had one of each animal.  (Un)fortunately we missed out on the gift shop, since were there up to closing.
   - Flying MDW was a pain the ass
     - There's no good transport there other than going all the way downtown Chicago

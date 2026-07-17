@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.449-05:00
-modified: 2026-07-15T02:19:08.455-05:00
+modified: 2026-07-17T04:34:26.092-05:00
 tags:
   - furry
   - Pokémon
@@ -15,6 +15,10 @@ tags:
 
 #### ⚡ About
 
-_A raichu wearing a ??? hat, red square glasses, blue Doctor Who TARDIS shirt, and a brown overcoat._
+_A raichu wearing a hat, red square glasses, blue Doctor Who TARDIS shirt, and a brown overcoat._
 
 I guess this would be considered my first fursona? This was based off a muppet drawing made for [[Communities|The General Chat]], and I ended up using it as my mascot for [[Communities|Deadbeats]] Let's Plays.
+
+_[I think about this image a lot.](https://x.com/idiotsyncratic0/status/2057078090673848322)_
+
+![[_imgs/raichu_headpat.jpg]]

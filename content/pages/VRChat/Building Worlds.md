@@ -2,7 +2,7 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-17T02:57:44.994-05:00
+modified: 2026-07-17T04:27:31.208-05:00
 tags:
   - VRChat
 ---
@@ -30,6 +30,7 @@ I haven't spread my wings outside of the VRCSDK so I'll let you know.
 ## 🤔 Things to Consider
 
 - Building an indoor space is much easier.
+- Blocking out spaces then add detail https://x.com/Swiftdeath918/status/2068721412286849105
 
 ## 📋 Project Setup
 
@@ -75,13 +76,22 @@ Block out the spaces you want first, focus on details later.
 
 [[Common World Prefabs]]
 
+#### Udon Scripts
+
 ### Baking lights with Bakery 💡
 
 ### Post Processing 🪟
 
+### Little Details
+
+- I like to make 'cosy' spaces feel lived in
+- Worlds now have contacts! What will happen if someone sprays something with a water gun??
+
 ## 📈 Optimizing Your World
 
 ### Download Size
+
+- Font Baker https://mametarovv.booth.pm/items/8528124
 
 ### Frames per Second
 

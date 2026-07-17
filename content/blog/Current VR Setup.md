@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.369-05:00
-modified: 2026-07-15T02:19:08.376-05:00
+modified: 2026-07-17T04:35:47.533-05:00
 tags:
   - VRChat
 ---
@@ -31,18 +31,12 @@ _Sorry to turn this post into your a cooking recipe blog, but here's the 'ingred
 ### 🖥️ Hardware
 
 - Quest Pro
-
 - [KKCOBVR Battery Head Strap](https://www.amazon.com/dp/B0C58KQC7V), and a spare battery.
-
 - Vive 3.0 Tracker with a [3D printed mount](https://www.thingiverse.com/thing:6671172) on the headset.
-
 - 3x Vive 3.0 Trackers, Legs and Waist. (Total 4.)
-
 - 4 Lighthouses
-
 - Index Knuckle Controllers
-
-- A seperate access point that is ~10 feet line of sight to my VR space
+- A separate access point that is ~10 feet line of sight to my VR space
 
 #### Rarely used hardware
 
@@ -67,7 +61,7 @@ _Through Steam:_
 - VRC Face Tracking -
 - VRC Video Cacher -
 - \~~Natural Locomotion~~ - Still having trouble configuring this, would like to use it with my treadmill.
-- \~~Standable~~ -
+- \~~Standable~~ - The virtual trackers tend to get stuck if
 
 ### Startup Process:
 
@@ -86,5 +80,6 @@ _Through Steam:_
 - [Quest Pro Ears Mount](https://www.printables.com/model/317255-quest-pro-ears-mount-partial-light-blockers) is a cute idea, but everything kept falling off.
 - While I would like to get a set of Trackstrap Plus batteries for my trackers, I would like to have a solution where the batteries could be replaced. Who knows, I might switch to FluxPose in the future anyways.
 - I tried building a Gridfinity charging basket, but honestly I need to make something more sturdy, as the magnets holding the [charging stations](https://www.printables.com/model/67193-valve-index-knuckles-and-htc-vive-tracker-30-charg) aren't strong enough.
+- [Guide for cleaning joysticks](https://x.com/WuWanan/status/2058001280157512181)
 - [Tupper's Best PCfor VRChat Guide](https://dtupper.com/projects/best-pc-for-vrchat/)
 - [Echo's PCVR Performance & Tracking Ultimate Guide](https://docs.google.com/document/d/1BdyWxQhFoRkJVfsLvcPNHgvL-esUEE76WbDfguOVbMg/edit?tab=t.0)
