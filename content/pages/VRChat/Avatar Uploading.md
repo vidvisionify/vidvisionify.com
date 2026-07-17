@@ -2,10 +2,12 @@
 publish: true
 draft: "true"
 created: 2026-07-15T02:19:08.389-05:00
-modified: 2026-07-15T02:19:08.397-05:00
+modified: 2026-07-17T02:05:21.164-05:00
 tags:
   - VRChat
 ---
+
+> [!warn] This page is a work in progress.
 
 vrcfury
 lightbox viewer
@@ -32,3 +34,9 @@ Reccomended Packages
 - Avatar QoL
 - VRCFury QoL
 - VRChat Upload Notifier
+
+## 💡Optimization
+
+Guides
+
+- [Duinrahaic's Guide](https://bsky.app/profile/duinrahaic.app/post/3lcjphyrt3c2m)

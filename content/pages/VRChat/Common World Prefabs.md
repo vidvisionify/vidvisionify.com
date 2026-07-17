@@ -1,5 +1,6 @@
 > [!warn] This page is a work in progress.
-> Not sure if it's still being updated; but check out https://vrcprefabs.com/.
+
+Not sure if it's still being updated; but check out https://vrcprefabs.com/.
 
 Video Players
 
@@ -26,4 +27,7 @@ Switches/Controls
 
 - Temmie - Only works with USharpVideo;
 - Udon
--
+
+Decor
+
+- [Flexicurve](https://github.com/REDSIM/FlexiCurve) - For building fairy lights. :)
