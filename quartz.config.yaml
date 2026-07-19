@@ -174,7 +174,7 @@ plugins:
         0.9       repelForce: 0.5       centerForce: 0.3       linkDistance:
         30       fontSize: 0.6       opacityScale: 1       removeTags:
         []       showTags: true       focusOnHover: true       enableRadial:
-        true"
+        false"
     layout:
       position: right
       priority: 10
