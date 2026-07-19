@@ -2,7 +2,8 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-18T20:50:51.291-05:00
+modified: 2026-07-18T21:37:27.120-05:00
+published: 2026-07-18T21:37:27.120-05:00
 tags:
   - VRChat
 ---
@@ -79,6 +80,9 @@ Block out the spaces you want first, focus on details later.
 [[Common World Prefabs]]
 
 #### Udon Scripts
+
+> [!NOTE] Play mode isn't working?
+> Most of the time, it's network IDs. Use the Open NID window to resolve these conflicts.
 
 ### Baking lights with Bakery 💡
 

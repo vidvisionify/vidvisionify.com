@@ -1,7 +1,8 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.369-05:00
-modified: 2026-07-17T04:35:47.533-05:00
+modified: 2026-07-18T21:49:24.997-05:00
+published: 2026-07-18T21:49:24.997-05:00
 tags:
   - VRChat
 ---
@@ -40,8 +41,8 @@ _Sorry to turn this post into your a cooking recipe blog, but here's the 'ingred
 
 #### Rarely used hardware
 
-- Muse Headband
-- Woojer Haptic Strap 3
+- Muse Headband -[Brainwaves in VRChat!](https://www.youtube.com/watch?v=B2f_Epm4epM) I wasn't able to control it very well, however the software has matured a lot since I last used it. Unfortunately it's uncomfortable with the Quest Pro
+- Woojer Haptic Strap 3 - lil base vibration speaker
 
 #### PC Specs
 
@@ -80,6 +81,7 @@ _Through Steam:_
 - [Quest Pro Ears Mount](https://www.printables.com/model/317255-quest-pro-ears-mount-partial-light-blockers) is a cute idea, but everything kept falling off.
 - While I would like to get a set of Trackstrap Plus batteries for my trackers, I would like to have a solution where the batteries could be replaced. Who knows, I might switch to FluxPose in the future anyways.
 - I tried building a Gridfinity charging basket, but honestly I need to make something more sturdy, as the magnets holding the [charging stations](https://www.printables.com/model/67193-valve-index-knuckles-and-htc-vive-tracker-30-charg) aren't strong enough.
+- [OpenVR-SpaceOverride](https://github.com/Nyabsi/OpenVR-SpaceOverride) - Disables the tracking on inside-out headsets and uses a tracker instead. I need to try this out.
 - [Guide for cleaning joysticks](https://x.com/WuWanan/status/2058001280157512181)
 - [Tupper's Best PCfor VRChat Guide](https://dtupper.com/projects/best-pc-for-vrchat/)
 - [Echo's PCVR Performance & Tracking Ultimate Guide](https://docs.google.com/document/d/1BdyWxQhFoRkJVfsLvcPNHgvL-esUEE76WbDfguOVbMg/edit?tab=t.0)
