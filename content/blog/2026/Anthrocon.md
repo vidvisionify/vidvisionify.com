@@ -3,7 +3,7 @@ publish: true
 aliases:
   - First Visit to Anthrocon
 created: 2026-07-07
-modified: 2026-07-17T04:09:12.000-05:00
+modified: 2026-07-17T04:09:12.355-05:00
 tags:
   - furry
 ---

@@ -41,3 +41,4 @@ _Take a look at my [[Current VR Setup]] too!_
 - [A Shared Home: How to Live with Friends](https://github.com/fiaKaiera/vrc-shared-spaces) - Building a world to share with a friend group.
 - https://stream.vard.cc/ - Quickly spin up an audio stream to share in a world player! Screen sharing should be coming soon!
 - https://vpm-catalog.vercel.app/ - Search through community Creator Companion packages
+- https://github.com/z3y/glim - An open source alternative to Bakery? Haven't tried it.

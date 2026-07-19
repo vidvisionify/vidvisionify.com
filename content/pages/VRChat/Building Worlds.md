@@ -1,8 +1,8 @@
 ---
 publish: true
 draft: "false"
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-17T04:27:31.000-05:00
+created: 2026-07-15T02:19:08.393-05:00
+modified: 2026-07-18T20:50:51.291-05:00
 tags:
   - VRChat
 ---
@@ -60,6 +60,8 @@ Instead of VRChat Creator Companion, I use [ALCOM/vrc-get](https://vrc-get.anata
 
 Admittedly, there is _ONE_ paid asset you will probably need to get. [Bakery](https://assetstore.unity.com/packages/tools/level-design/bakery-gpu-lightmapper-122218) is a NVIDIA GPU Light-mapper that makes well lit worlds possible. Try to catch it on sale, as it tends to be 50% off (~\$27.50 USD)
 
+Very recently z3y released [glim](https://github.com/z3y/glim), which is an alternative open source light mapper, but I haven't tried it yet.
+
 ## 👨‍💻 Using Unity
 
 > [!warn] **Back up your project!** I know it can be a slow process; but I try to run a backup before I get started for the day.
@@ -99,4 +101,7 @@ Resources:
 
 - https://orels.sh/p/tools/
 
-![[_imgs/sticker_vid_coffee.png|150]]
+Misc:
+
+- Let's be glad we don't have to [make maps in Valve's HAMMER](https://www.youtube.com/watch?v=aZZRTxdinbU)
+  ![[_imgs/sticker_vid_coffee.png|150]]

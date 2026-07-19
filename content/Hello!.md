@@ -2,8 +2,8 @@
 publish: true
 aliases:
   - index
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-17T05:00:57.000-05:00
+created: 2026-07-15T02:19:06.077-05:00
+modified: 2026-07-17T05:00:57.125-05:00
 tags:
   - meta
 ---
