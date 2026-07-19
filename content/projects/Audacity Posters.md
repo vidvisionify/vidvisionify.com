@@ -1,7 +1,8 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.421-05:00
-modified: 2026-07-16T03:59:37.265-05:00
+modified: 2026-07-18T22:05:49.291-05:00
+published: 2026-07-18T22:05:49.291-05:00
 tags:
   - design
   - vrchat
@@ -21,4 +22,4 @@ preamble of some sort
 
 ### 👥 Related Events
 
-<img src="_imgs/posters/0625 VictoryListening.png" width="200"/> 
+<img src="_imgs/audacity/260625 VictoryListening.png" width="200"/> 
