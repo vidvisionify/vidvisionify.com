@@ -1,9 +1,9 @@
 ---
 publish: true
 draft: "false"
-created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-18T21:37:27.120-05:00
-published: 2026-07-18T21:37:27.120-05:00
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-07-20T19:15:19.000-05:00
+published: 2026-07-20T19:15:19.000-05:00
 tags:
   - VRChat
 ---
@@ -12,10 +12,11 @@ tags:
 
 When uploading an avatar to VRChat, there's tons of resources all over YouTube and the web for creating your perfect virtual persona. However, if you want your own world; maybe something more customized than the [80+ bedrooms](https://vrclist.com/?type=search\&tags=bedroom\&sort=recent) you find on a basic search. A few people have asked me for help building worlds, or where I find tools to get started.
 
-A few things to keep in mind before we get started;
-
-- _I am entirely self-taught._
-- _I haven't touched blender._
+> [!caution]
+> A few things to keep in mind before we get started;
+>
+> - _I am entirely self-taught._
+> - _I haven't touched blender._
 
 I have heard that making world for VRChat does basically make you a level/game designer.
 I haven't spread my wings outside of the VRCSDK so I'll let you know.
@@ -32,6 +33,7 @@ I haven't spread my wings outside of the VRCSDK so I'll let you know.
 
 - Building an indoor space is much easier.
 - Blocking out spaces then add detail https://x.com/Swiftdeath918/status/2068721412286849105
+  - Forces you to 'trust the process'
 
 ## 📋 Project Setup
 
@@ -65,7 +67,7 @@ Very recently z3y released [glim](https://github.com/z3y/glim), which is an alte
 
 ## 👨‍💻 Using Unity
 
-> [!warn] **Back up your project!** I know it can be a slow process; but I try to run a backup before I get started for the day.
+> [!error] **Back up your project!** I know it can be a slow process; but I try to run a backup before I get started for the day.
 
 - To keep a sense of scale, it helps to have a stand-in object for the height of the user. I use these [Editor markers](https://tsunamoo.booth.pm/items/3092199) that are already tagged as "EditorOnly", so they don't end up in the final upload. I put one at the spawn, and then any gathering spaces like in front of video players.
 
@@ -81,7 +83,7 @@ Block out the spaces you want first, focus on details later.
 
 #### Udon Scripts
 
-> [!NOTE] Play mode isn't working?
+> [!hint] Play mode isn't working?
 > Most of the time, it's network IDs. Use the Open NID window to resolve these conflicts.
 
 ### Baking lights with Bakery 💡

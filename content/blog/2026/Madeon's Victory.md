@@ -5,8 +5,21 @@ March 2025, I was excited to see a new era of Madeon's music was approaching wit
 - buying red rocks tickets
 - show itself
 - long long release
-- listening party
+- listening party release for [[Groove Garage]]
 
 That being said, the wait for this album has been long and grueling.
+
+#### Personal Ranking
+
+1. Car Crash Baby
+2. Somebody Else
+3. Dancing On Your Grave
+4. Hi!
+5. Super Platinum
+6. Enjoy
+7. Fire Away
+8. Red Jacket
+9. Chaos Magic
+10. Lonely Space Age
 
 <img src="_imgs/audacity/260625 VictoryListening.png" width="300" align="center"/> 

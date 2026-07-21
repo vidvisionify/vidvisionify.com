@@ -14,3 +14,4 @@ Honestly anything that you can reasonably connect to the internet but of note:
 - **GameCube**
 
 The answer; [ISUU](https://github.com/iisu-network/iiSU) and Android!!
+https://www.youtube.com/watch?v=arFZ7zunPiU

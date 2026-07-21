@@ -27,8 +27,8 @@ Switches/Controls
 
 'Record' Players
 
-- Temmie - Only works with USharpVideo;
-- Udon
+- [Vard and Temmie](https://github.com/Vard-and-Temmie/Udon-Record-player) - Only works with USharpVideo;
+- [UdonVR](https://udonvr.gumroad.com/l/RecordPlayer) -
 
 Decor
 

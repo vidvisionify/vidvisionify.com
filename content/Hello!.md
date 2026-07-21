@@ -2,8 +2,9 @@
 publish: true
 aliases:
   - index
-created: 2026-07-15T02:19:06.077-05:00
-modified: 2026-07-17T05:00:57.125-05:00
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-07-20T19:22:00.000-05:00
+published: 2026-07-20T19:22:00.000-05:00
 tags:
   - meta
 ---
@@ -18,6 +19,7 @@ I am [[#furry]] garbage that occasionally builds [[worlds]] in [[VRChat.]] I kno
 
 ## 📓 Featured [[Pages]] + [[Projects]]
 
+- [[Now]]
 - [[Building Worlds]]
 
 ## 📝 Recent [[Blog|Blog Posts]]

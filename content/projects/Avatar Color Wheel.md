@@ -1,13 +1,16 @@
 ---
 publish: true
 draft: "true"
-created: 2026-07-15T02:19:08.421-05:00
-modified: 2026-07-15T02:19:08.428-05:00
+created: 1969-12-31T18:00:00.000-06:00
+modified: 2026-07-19T22:00:49.000-05:00
+published: 2026-07-19T22:00:49.000-05:00
 tags:
   - vrchat
 ---
 
 TODO: make page make sense
+
+https://bsky.app/profile/raichu.lol/post/3lheif5jjls2i
 Ms paint window to partial step outwindow to partial step out of
 ----------------------------------------------------------------
 
