@@ -3,9 +3,8 @@ publish: true
 aliases:
   - Emerald Seaglass
 draft: "true"
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-18T20:54:08.000-05:00
-published: 2026-07-18T20:54:08.000-05:00
+created: 2026-07-15T02:19:08.353-05:00
+modified: 2026-07-18T20:54:08.793-05:00
 tags:
   - Pokémon
 ---

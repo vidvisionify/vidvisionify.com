@@ -22,4 +22,4 @@ That being said, the wait for this album has been long and grueling.
 9. Chaos Magic
 10. Lonely Space Age
 
-<img src="_imgs/audacity/260625 VictoryListening.png" width="300" align="center"/> 
+<img src="_imgs/audacity/260625 VictoryListening.png" width="300" align="center"/>  ![[_imgs/VictoryRelease.png|492]]

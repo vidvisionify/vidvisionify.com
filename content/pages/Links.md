@@ -1,9 +1,9 @@
 ---
 publish: true
 draft: "false"
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-20T19:23:28.000-05:00
-published: 2026-07-20T19:23:28.000-05:00
+created: 2026-07-15T02:19:08.385-05:00
+modified: 2026-07-20T19:23:28.987-05:00
+published: 2026-07-20T19:23:28.987-05:00
 ---
 
 This is a list of things I've found around the internet that I find cool or useful.

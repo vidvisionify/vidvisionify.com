@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-17T03:14:18.000-05:00
+created: 2026-07-15T02:19:08.457-05:00
+modified: 2026-07-25T09:17:25.395-05:00
+published: 2026-07-25T09:17:25.395-05:00
 tags:
   - furry
 ---
@@ -24,6 +25,7 @@ tags:
 - I haven't entirely decided if [[Slate]] and Vid are in the same universe.
 - <a href="https://open.spotify.com/playlist/1WB2jJB4G9j5HK6G8C1iIf?si=ce0483629c7a4fb7">🎧 Spotify Playlist</a>
   - If I ever learn to animate in blender, there's a couple songs in there I would turn into anime openings.
+- Pokémon AU Team; _Flygon, Typhlosion, Raichu, Breloom, Espeon, Azumarill_
 
 #### ⚠️ Common Mistakes
 

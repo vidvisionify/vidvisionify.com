@@ -1,7 +1,8 @@
 ---
 publish: true
-created: 1969-12-31T18:00:00.000-06:00
-modified: 2026-07-17T05:00:27.000-05:00
+created: 2026-07-15T02:19:08.437-05:00
+modified: 2026-07-25T07:05:53.859-05:00
+published: 2026-07-25T07:05:53.859-05:00
 tags:
   - VRChat
 ---
@@ -25,3 +26,5 @@ While this world is meant to be the home of [[Slate]], I honestly don't have eno
 #### 🪺 Easter Eggs
 
 - Any [records I personally own](https://www.discogs.com/user/vidvisionify/collection) have a very subtle normal map of a pawprint on the back in the bottom left!
+
+![[_imgs/VictoryRelease.png]]
