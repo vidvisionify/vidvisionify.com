@@ -1,0 +1,15 @@
+- 4-6 or 6-9 lights
+- General Lighting
+- Task Lighting
+- Accent Lighting
+- 2700k
+- Work in 3d (fill the walls)
+  - curtains (make space feel bigger, kiss floor)
+- organic materials
+- think about stuff functionally
+- command position: most secure and grounded
+- traffic/flow
+- front two legs of furntiture on rug
+- convo area not bigger than 10ft diameter
+- give things a home
+- light a candle

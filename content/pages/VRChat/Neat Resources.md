@@ -14,6 +14,7 @@
 _Your milage may very on these, these are for me to check out for when I try to learn again_
 
 - UVFactory https://x.com/SpaghetMeN0t/status/2055970693301334285
+- https://github.com/passivestar/quickmenu
 
 ---
 
@@ -26,6 +27,7 @@ _Your milage may very on these, these are for me to check out for when I try to 
 ### Projects
 
 - [Televoid](https://k-9.codes/posts/televoid/)- A retro 'cable guide' for ProTV [More info](https://k-9.codes/posts/televoid-redux/)
+- https://github.com/MyroG/MyroP-s-Player-Teleporter-System
 
 ---
 

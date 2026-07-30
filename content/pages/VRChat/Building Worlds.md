@@ -2,8 +2,8 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-20T19:15:19.030-05:00
-published: 2026-07-20T19:15:19.030-05:00
+modified: 2026-07-30T01:00:53.235-05:00
+published: 2026-07-30T01:00:53.235-05:00
 tags:
   - VRChat
 ---
@@ -34,6 +34,7 @@ I haven't spread my wings outside of the VRCSDK so I'll let you know.
 - Building an indoor space is much easier.
 - Blocking out spaces then add detail https://x.com/Swiftdeath918/status/2068721412286849105
   - Forces you to 'trust the process'
+- [[Interior Design]] Principals
 
 ## 📋 Project Setup
 
@@ -79,7 +80,11 @@ Block out the spaces you want first, focus on details later.
 
 ###### Finding Prefabs and Models 👀
 
-[[Common World Prefabs]]
+[[Sourcing World Assets]]
+
+#### Shaders/Materials
+
+https://github.com/MochiesCode/Mochies-Unity-Shaders/releases
 
 #### Udon Scripts
 
