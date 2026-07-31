@@ -2,8 +2,8 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-30T01:00:53.235-05:00
-published: 2026-07-30T01:00:53.235-05:00
+modified: 2026-07-31T05:06:08.571-05:00
+published: 2026-07-31T05:06:08.571-05:00
 tags:
   - VRChat
 ---
@@ -12,14 +12,19 @@ tags:
 
 When uploading an avatar to VRChat, there's tons of resources all over YouTube and the web for creating your perfect virtual persona. However, if you want your own world; maybe something more customized than the [80+ bedrooms](https://vrclist.com/?type=search\&tags=bedroom\&sort=recent) you find on a basic search. A few people have asked me for help building worlds, or where I find tools to get started.
 
-> [!caution]
-> A few things to keep in mind before we get started;
+> [!caution] A few things to keep in mind before we get started;
 >
 > - _I am entirely self-taught._
 > - _I haven't touched blender._
 
 I have heard that making world for VRChat does basically make you a level/game designer.
 I haven't spread my wings outside of the VRCSDK so I'll let you know.
+
+## 📖 Other Guides
+
+Listen, I'm terrible at writing. Here's a collection of guides I know about/have used
+
+- https://wiki.virtualabs.cloud/guide-hub - Should be fairly up to date
 
 > [!NOTE] _"The only way to begin is by beginning..."_
 > A great place to start is [this YouTube Playlist by Iconoclass](https://www.youtube.com/playlist?list=PLPdWkxUSZ65Fp6ICrU7mIq1znAfPwMhNZ), and his video tutorials.
@@ -115,4 +120,5 @@ Resources:
 Misc:
 
 - Let's be glad we don't have to [make maps in Valve's HAMMER](https://www.youtube.com/watch?v=aZZRTxdinbU)
+- People have opinions on ScreenFX https://bsky.app/profile/babyjack.bsky.social/post/3mmrlsfcayc2q
   ![[_imgs/sticker_vid_coffee.png|150]]

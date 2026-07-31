@@ -35,8 +35,9 @@ _Your milage may very on these, these are for me to check out for when I try to 
 
 _Take a look at my [[Current VR Setup]] too!_
 
-- [Building a Face Tracker for \$15](https://bsky.app/profile/crysvr.bsky.social/post/3mcsfkr3ly22y)
+- [Building a Face Tracker for \$15](https://bsky.app/profile/crysvr.bsky.social/post/3mcsfkr3ly22y) / [In Use](https://bsky.app/profile/zekk.dev/post/3mfd4noaahc2f)
 - [Guide for cleaning joysticks](https://x.com/WuWanan/status/2058001280157512181)
+- [VRTI](https://raphii.co/vrti/introduction/) - Control Bluetooth treadmills in VRC
 
 ## 📦Misc
 

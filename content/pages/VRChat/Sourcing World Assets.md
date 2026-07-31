@@ -1,7 +1,9 @@
-> [!warn] This page is a work in progress.
+> [!caution] This page is mostly done, but still a work in progress.
 
 > [!error] Beware AI slop.
 > There's a few creators that vibe code Udon scripts or models for storefronts and throw an awful genAI image on top of it to sell. This is gross. _Don't encourage this and avoid them_
+
+Sometimes it can be hard to find assets and models for VRChat; here's the places I look!
 
 # 🔎 Finding Prefabs
 
@@ -53,33 +55,20 @@
 
 ---
 
-## 🏪 Common Prefabs
+## 🏪 Common World Prefabs
 
-Video Players
+**Video Players**
 
 - [VideoTXL](https://github.com/vrctxl/VideoTXL) ([VPM](https://vrctxl.github.io/VPM/)) - Must use if you're planning to host events. I've found it a bit annoying to setup, try to [consult the docs](https://vrctxl.github.io/Docs/).
-- [VizVid](https://github.com/JLChnToZ/VVMW) ([VPM](https://xtlcdn.github.io/vpm/)) - My current favorite, though maybe a bit too modular.
+- [VizVid](https://github.com/JLChnToZ/VVMW) ([VPM](https://xtlcdn.github.io/vpm/)) - My current favorite, though maybe a bit too modular. People kinda have trouble understanding you click the video for controls sometimes
+  - https://github.com/lackofbindings/VizVidQuickInput
 - [USharpVideo](https://github.com/MerlinVR/USharpVideo) - Hasn't been updated for a while, used to be considered the most stable.
 - [ProTV](https://protv.dev/) - Regarded as fairly buggy, but version 3 is still in development. Doesn't handle streamed video well.
 
-Games
+**'Record' Players**
 
-- Billiards -
-- Beer Pong -
-
-Markers
-
-- z3y -
-- QVPen -
-
-Switches/Controls
-
-- LuraSwitch -
-
-'Record' Players
-
-- [Vard and Temmie](https://github.com/Vard-and-Temmie/Udon-Record-player) - Only works with USharpVideo;
-- [UdonVR](https://udonvr.gumroad.com/l/RecordPlayer) -
+- [Vard and Temmie](https://github.com/Vard-and-Temmie/Udon-Record-player) - Only works with USharpVideo, everything is contained in one script component.
+- [UdonVR](https://udonvr.gumroad.com/l/RecordPlayer) - Allows for playlists, and works on other video players! There's a script for the 'Record Player' and a seperate script you put on each 'Record'.
 
 Decor
 
