@@ -1,3 +1,5 @@
+https://kenney.nl/assets
+
 ## 🎨 Texturing
 
 - https://teald.app/ - Substance painter replacement in browser
@@ -8,6 +10,8 @@
 
 - [Polyhaven](https://polyhaven.com/)
 - https://rodzilla.itch.io/material-maker
+- https://foxh3ad.itch.io/foxtexcom - Very DOOM/Source Engine-like textures
+-
 
 ## 🧲 Blender Plugins
 
@@ -38,10 +42,12 @@ _Take a look at my [[Current VR Setup]] too!_
 - [Building a Face Tracker for \$15](https://bsky.app/profile/crysvr.bsky.social/post/3mcsfkr3ly22y) / [In Use](https://bsky.app/profile/zekk.dev/post/3mfd4noaahc2f)
 - [Guide for cleaning joysticks](https://x.com/WuWanan/status/2058001280157512181)
 - [VRTI](https://raphii.co/vrti/introduction/) - Control Bluetooth treadmills in VRC
+- [Small fixes for common Quest issues](https://bsky.app/profile/electrovrc.com/post/3mlld2xyta22p)
 
 ## 📦Misc
 
 - [A Shared Home: How to Live with Friends](https://github.com/fiaKaiera/vrc-shared-spaces) - Building a world to share with a friend group.
 - https://stream.vard.cc/ - Quickly spin up an audio stream to share in a world player! Screen sharing should be coming soon!
 - https://vpm-catalog.vercel.app/ - Search through community Creator Companion packages
-- https://github.com/z3y/glim - An open source alternative to Bakery? Haven't tried it.
+- https://github.com/z3y/glim - An open source light mapper alternative to Bakery? Haven't tried it.
+- https://suzufactory.booth.pm/items/8614446 Another Light Mapper Bakery alternative

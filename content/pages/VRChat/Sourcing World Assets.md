@@ -73,3 +73,7 @@ Sometimes it can be hard to find assets and models for VRChat; here's the places
 Decor
 
 - [Flexicurve](https://github.com/REDSIM/FlexiCurve) - For building fairy lights. :)
+
+Lighting
+
+- https://github.com/Torvid21/LUTBeams - Volumetric Fog lights

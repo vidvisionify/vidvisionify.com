@@ -2,8 +2,8 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-07-31T05:06:08.571-05:00
-published: 2026-07-31T05:06:08.571-05:00
+modified: 2026-08-03T05:43:46.320-05:00
+published: 2026-08-03T05:43:46.320-05:00
 tags:
   - VRChat
 ---
@@ -25,6 +25,7 @@ I haven't spread my wings outside of the VRCSDK so I'll let you know.
 Listen, I'm terrible at writing. Here's a collection of guides I know about/have used
 
 - https://wiki.virtualabs.cloud/guide-hub - Should be fairly up to date
+- "[_Building Worlds for VRChat_](https://vrchat.com/home/world/wrld_addcb652-d59b-4b73-a5a8-669e9bb27c9c/info)" By [Triforceguard](https://vrchat.com/home/user/usr_be00963f-2cf4-4f78-a3cb-05b1832f47a0)"
 
 > [!NOTE] _"The only way to begin is by beginning..."_
 > A great place to start is [this YouTube Playlist by Iconoclass](https://www.youtube.com/playlist?list=PLPdWkxUSZ65Fp6ICrU7mIq1znAfPwMhNZ), and his video tutorials.
@@ -105,7 +106,14 @@ https://github.com/MochiesCode/Mochies-Unity-Shaders/releases
 - I like to make 'cosy' spaces feel lived in
 - Worlds now have contacts! What will happen if someone sprays something with a water gun??
 
+#### Club Notes 🪩
+
+- https://github.com/micksam7/VRCPhotosensitiveVideoFilter/tree/main
+- People have opinions on ScreenFX https://bsky.app/profile/babyjack.bsky.social/post/3mmrlsfcayc2q
+
 ## 📈 Optimizing Your World
+
+https://github.com/MyroG/Optimizing-VRChat-worlds-Furality-Somna
 
 ### Download Size
 
@@ -120,5 +128,4 @@ Resources:
 Misc:
 
 - Let's be glad we don't have to [make maps in Valve's HAMMER](https://www.youtube.com/watch?v=aZZRTxdinbU)
-- People have opinions on ScreenFX https://bsky.app/profile/babyjack.bsky.social/post/3mmrlsfcayc2q
   ![[_imgs/sticker_vid_coffee.png|150]]

@@ -6,4 +6,6 @@
 
 https://reactive.fugi.tech/
 
+https://github.com/philippgitpush/vrc-obs-world-overlay
+
 SPout tools: https://leadedge.github.io/
