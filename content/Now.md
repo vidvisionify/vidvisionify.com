@@ -23,14 +23,6 @@
 
 ## 🎧 Listening to
 
-- 💽 [20. - Shteppi](https://www.youtube.com/watch?v=1F64bfN68EU)
-- 💽 [TRUE LOVE IN A MADE UP WORLD - San Holo](https://www.youtube.com/watch?v=Ec85dgTjsmQ)
-- 👥 Neck Deep
-- 🎵[Streetcat - FLAVOR FOLEY](https://www.youtube.com/watch?v=jbZT-bwZD3c)
-- 🎵[Point A - Underscores](https://www.youtube.com/watch?v=gKnMyEM3mf8)
-
-##### 🔁 On Repeat
-
 - 💽 [[Madeon's Victory|Victory - Madeon]]
 - 💽 [U - Underscores](https://www.youtube.com/watch?v=yzwzkhNQcsM)
 - 💽 [I Love My Computer - Ninajirachi](https://www.youtube.com/watch?v=RKybAhTw8iE)
@@ -39,6 +31,8 @@
 - 🎵 [Seven Dollars - Happy Birthday Mr.Baskets](https://www.youtube.com/watch?v=ldKoXzVdMGw)
 - 🎵 [WannaCry - Ninajirachi & Porter Robinson](https://www.youtube.com/watch?v=Ob_EDY9Eiis&)
 - 🎵 [Wayside - Ninajirachi](https://www.youtube.com/watch?v=MTN6TPORuaM)
+- 🎵[Streetcat - FLAVOR FOLEY](https://www.youtube.com/watch?v=jbZT-bwZD3c)
+- 🎵[Point A - Underscores](https://www.youtube.com/watch?v=gKnMyEM3mf8)
 
 ---
 

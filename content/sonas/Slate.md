@@ -1,8 +1,8 @@
 ---
 publish: true
 created: 2026-07-15T02:19:08.453-05:00
-modified: 2026-07-25T09:46:50.703-05:00
-published: 2026-07-25T09:46:50.703-05:00
+modified: 2026-08-07T05:25:13.570-05:00
+published: 2026-08-07T05:25:13.570-05:00
 tags:
   - furry
 ---
@@ -25,6 +25,7 @@ A Snow Leopard/Pallas cat
 
 ###### 📖 Lore
 
+- Steals street signs
 - Roommates with [[Toast]]?
 - <a href="https://open.spotify.com/playlist/6MvDHchlGemtlXYB1HHsed?si=10c3d24d506246c4">🎧 Spotify Playlist</a>
 - Pokemon AU Team: _Torracat, Weavile, Luxray, Toxtricity, Obstagoon, Scrafty_
