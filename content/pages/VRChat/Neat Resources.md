@@ -19,6 +19,7 @@ _Your milage may very on these, these are for me to check out for when I try to 
 
 - UVFactory https://x.com/SpaghetMeN0t/status/2055970693301334285
 - https://github.com/passivestar/quickmenu
+- https://x.com/happy\_modeling/status/2087743395594944815
 
 ---
 

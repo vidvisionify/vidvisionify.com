@@ -6,17 +6,16 @@
 
 ## 🎮 Playing
 
-- _Palworld_ with friends
-- _Pokémon Red_ on Anbernic RG Rotate
-- It is _not_ the two-week Minecraft phase.
+- It is, in fact, the Minecraft phase.
+  - More specifically, heavily modded with Cobblemon and Create Aeronautics
 
 ## 📺 Watching
 
 - Game Changer on DROPOUT
+- Jet Lag: The Game Japanorama
 
 ##### 👀 Waiting for...
 
-- New season of Jet Lag: The Game
 - The return of RWBY
 - Gameoverse
 - Lackadaisy
