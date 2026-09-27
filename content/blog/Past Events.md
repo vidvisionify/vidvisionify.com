@@ -35,4 +35,4 @@
 
 - 🌐 **Furality** - _Luma Festival, Sylva, Umbra, Ultra_
 
-- 💾 **Midwest Vintage Computer Festival** - _2025_
+- 💾 **Midwest Vintage Computer Festival** - _2025, 2026_

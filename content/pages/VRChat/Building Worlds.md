@@ -2,13 +2,17 @@
 publish: true
 draft: "false"
 created: 2026-07-15T02:19:08.393-05:00
-modified: 2026-08-03T05:43:46.320-05:00
-published: 2026-08-03T05:43:46.320-05:00
+modified: 2026-09-27T05:51:39.682-05:00
+published: 2026-09-27T05:51:39.682-05:00
 tags:
   - VRChat
 ---
 
 > [!warn] This page is a work in progress.
+
+> [!error] Oh god the AI slop
+> I guess there's now agents/model that people use to create worlds now.
+> This is gross. _Don't encourage this and avoid them_
 
 When uploading an avatar to VRChat, there's tons of resources all over YouTube and the web for creating your perfect virtual persona. However, if you want your own world; maybe something more customized than the [80+ bedrooms](https://vrclist.com/?type=search\&tags=bedroom\&sort=recent) you find on a basic search. A few people have asked me for help building worlds, or where I find tools to get started.
 
