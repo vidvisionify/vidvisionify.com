@@ -2,7 +2,8 @@
 publish: true
 draft: "true"
 created: 2026-07-15T02:19:08.389-05:00
-modified: 2026-07-17T04:42:19.591-05:00
+modified: 2026-09-30T00:52:32.803-05:00
+published: 2026-09-30T00:52:32.803-05:00
 tags:
   - VRChat
 ---
@@ -35,6 +36,9 @@ Reccomended Packages
 - VRCFury QoL
 - VRChat Upload Notifier
 
+Hand Stopper
+https://mag-works.booth.pm/items/8874755
+
 Vulpes Tailoring Tools
 
 Physbone Visualization
@@ -42,6 +46,11 @@ https://x.com/pnnrn/status/2069572888194330881
 
 Animation Editor
 https://yergoddamnright.gumroad.com/l/anim-editor
+
+## Personal Essentials
+
+- Gesture Manager
+-
 
 ## 🔉Audiolink
 
